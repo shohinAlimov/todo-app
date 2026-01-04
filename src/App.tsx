@@ -90,7 +90,7 @@ function App() {
         <div className="border-l-4 border-blue-500 p-4 rounded mb-4">
           <h3 className="font-bold text-lg mb-2">About This Project</h3>
           <p className="text-white text-[16px]">
-            A modern, responsive Todo List application built with{" "}
+            A modern Todo List application built with{" "}
             <a
               className="underline font-semibold text-blue-600"
               href="https://react.dev/"
